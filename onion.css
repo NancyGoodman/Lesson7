@@ -1,0 +1,39 @@
+p {
+	line-height: 19px;
+}
+h1:hover {
+	color: pink;
+}
+
+h1 {
+	color: darkgreen;
+}
+
+h1, h2 {
+	font-family: Georgia;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+div {
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
